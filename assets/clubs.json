@@ -1,0 +1,204 @@
+{
+  "clubs": [
+    {
+      "id": 1,
+      "name": "Barcelona",
+      "code": "BAR"
+    },
+    {
+      "id": 2,
+      "name": "Espanyol",
+      "code": "ESP"
+    },
+    {
+      "id": 3,
+      "name": "R. Madrid",
+      "code": "RMD"
+    },
+    {
+      "id": 4,
+      "name": "Atlético",
+      "code": "ATL"
+    },
+    {
+      "id": 5,
+      "name": "Getafe",
+      "code": "GET"
+    },
+    {
+      "id": 6,
+      "name": "Sevilla",
+      "code": "SEV"
+    },
+    {
+      "id": 7,
+      "name": "Valencia",
+      "code": "VAL"
+    },
+    {
+      "id": 8,
+      "name": "Levante",
+      "code": "LEV"
+    },
+    {
+      "id": 9,
+      "name": "Málaga",
+      "code": "MAG"
+    },
+    {
+      "id": 10,
+      "name": "Athletic",
+      "code": "ATH"
+    },
+    {
+      "id": 11,
+      "name": "Celta",
+      "code": "CEL"
+    },
+    {
+      "id": 12,
+      "name": "R. Sociedad",
+      "code": "RSO"
+    },
+    {
+      "id": 13,
+      "name": "Deportivo",
+      "code": "DEP"
+    },
+    {
+      "id": 14,
+      "name": "Eibar",
+      "code": "EBR"
+    },
+    {
+      "id": 15,
+      "name": "Betis",
+      "code": "BET"
+    },
+    {
+      "id": 16,
+      "name": "Las Palmas",
+      "code": "LPS"
+    },
+    {
+      "id": 17,
+      "name": "Villarreal CF",
+      "code": "VLL"
+    },
+    {
+      "id": 18,
+      "name": "Alavés",
+      "code": "AVS"
+    },
+    {
+      "id": 19,
+      "name": "Girona",
+      "code": "GRN"
+    },
+    {
+      "id": 20,
+      "name": "Club Deportivo Leganés",
+      "code": "CDL"
+    },
+    {
+      "id": 21,
+      "name": "Chelsea",
+      "code": "CHE"
+    },
+    {
+      "id": 22,
+      "name": "Arsenal",
+      "code": "ARS"
+    },
+    {
+      "id": 23,
+      "name": "Tottenham Hotspur",
+      "code": "TOT"
+    },
+    {
+      "id": 24,
+      "name": "West Ham United",
+      "code": "WHU"
+    },
+    {
+      "id": 25,
+      "name": "Crystal Palace",
+      "code": "CRY"
+    },
+    {
+      "id": 26,
+      "name": "Manchester United",
+      "code": "MUN"
+    },
+    {
+      "id": 27,
+      "name": "Manchester City",
+      "code": "MCI"
+    },
+    {
+      "id": 28,
+      "name": "Everton",
+      "code": "EVE"
+    },
+    {
+      "id": 29,
+      "name": "Liverpool",
+      "code": "LIV"
+    },
+    {
+      "id": 30,
+      "name": "West Bromwich Albion",
+      "code": "WBA"
+    },
+    {
+      "id": 31,
+      "name": "Newcastle United",
+      "code": "NEW"
+    },
+    {
+      "id": 32,
+      "name": "Stoke City",
+      "code": "STK"
+    },
+    {
+      "id": 33,
+      "name": "Southampton",
+      "code": "SOU"
+    },
+    {
+      "id": 34,
+      "name": "Leicester City",
+      "code": "LEI"
+    },
+    {
+      "id": 35,
+      "name": "Bournemouth",
+      "code": "BOU"
+    },
+    {
+      "id": 36,
+      "name": "Watford",
+      "code": "WAT"
+    },
+    {
+      "id": 37,
+      "name": "Brighton & Hove Albion",
+      "code": "BHA"
+    },
+    {
+      "id": 38,
+      "name": "Burnley",
+      "code": "BUR"
+    },
+    {
+      "id": 39,
+      "name": "Huddersfield Town",
+      "code": "HDT"
+    },
+    {
+      "id": 40,
+      "name": "Swansea",
+      "code": "SWA"
+    }
+  ]
+}
